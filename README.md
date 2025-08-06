@@ -12,12 +12,6 @@ Welcome to my personal web developer portfolio – a responsive and modern singl
 
 ---
 
-## 🌐 Live Preview
-
-🔗 [View Portfolio Website](https://your-deployed-site-url.com)
-
----
-
 ## 📌 Features
 
 - 🧑‍💻 Clean, modern, and responsive UI built with **Tailwind CSS**
@@ -101,12 +95,3 @@ If you'd like to connect or collaborate:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-> “Creating digital experiences that blend creativity with functionality.”
-
-```
-
----
-
-Let me know if you’d like this in a downloadable `.md` file or tailored for a specific hosting platform like GitHub Pages or Netlify.
-```
